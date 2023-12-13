@@ -1,5 +1,4 @@
 # 💫 About Me:
-> .[!NOTE]
 > 👋Hola, mi nombre es Jordy.<br><br>Me gusta mucho programar y espero algun dia llegar a ser un buen programador ✨
 
 
