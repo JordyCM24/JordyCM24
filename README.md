@@ -24,10 +24,7 @@
 
 
 
-
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h5 align="left">👋Hola, mi nombre es Jordy.<br>Me gusta mucho programar y espero algun dia llegar a ser un buen programador ✨</h5>
 
 ###
 
@@ -98,13 +95,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<img src="https://raw.githubusercontent.com/JordyCM24/JordyCM24/output/snake.svg" alt="Snake animation" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317wcalqw7hpkl3fvrk2pskyaq24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ###
 
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317wcalqw7hpkl3fvrk2pskyaq24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
+</div>
+###
 
 
 
