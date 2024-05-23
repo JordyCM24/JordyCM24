@@ -1,7 +1,7 @@
 # 💫 About Me:
 > 👋Hola, mi nombre es Jordy.<br><br>Me gusta mucho programar y espero algun dia llegar a ser un buen programador ✨
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317wcalqw7hpkl3fvrk2pskyaq24&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317wcalqw7hpkl3fvrk2pskyaq24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@jordydev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JordyDevs) 
