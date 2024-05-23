@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/JordyCM24/JordyCM24/assets/113217256/cc91332e-7bc2-4390-801b-a604c1537927"  />
+<img align="right" height="150" src="https://i.imgur.com/qq0TF4S.gif"  />
 
 ###
 
@@ -88,11 +88,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+    <a href="https://www.youtube.com/channel/UC068qefKKkSAAVZCV4j7glQ">
+      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    </a>
+    <a href="https://discord.com/invite/5wqFeB3J">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+    <a href="https://x.com/JordyDev_">
+      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    </a>
+  </div>
 
 
 <img src="https://raw.githubusercontent.com/JordyCM24/JordyCM24/output/snake.svg" alt="Snake animation" />
