@@ -28,7 +28,9 @@
 
 ###
 
-<img align="right" height="80" src="https://i.imgur.com/qq0TF4S.gif"  />
+<div style="padding: 10px;">
+  <img align="right" height="100" src="https://i.imgur.com/qq0TF4S.gif"  />
+</div>
 
 ###
 
