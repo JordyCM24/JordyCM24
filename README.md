@@ -65,7 +65,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JordyCM24/JordyCM24/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/JordyCM24/JordyCM24/output/snake.svg" alt="Snake animation" /> -->
+![Snake animation](https://github.com/JordyCM24/JordyCM24/blob/output/github-contribution-grid-snake.svg)
 
 # 💻 Tecnologias y herramientas que he llegado a usar :
 
