@@ -68,6 +68,8 @@
 <!--<img src="https://raw.githubusercontent.com/JordyCM24/JordyCM24/output/snake.svg" alt="Snake animation" /> -->
 ![Snake animation](https://github.com/JordyCM24/JordyCM24/blob/output/github-contribution-grid-snake.svg)
 
+[![readne](https://github-readme-stats.vercel.app/api/pin/?username-JordyCM24&repo-JordyCM24&theme-react)](https://github.com/JordyCM24/JordyCM24).
+
 # 💻 Tecnologias y herramientas que he llegado a usar :
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
