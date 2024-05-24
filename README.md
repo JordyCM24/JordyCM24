@@ -65,10 +65,9 @@
 
 ###
 
-<!--<img src="https://raw.githubusercontent.com/JordyCM24/JordyCM24/output/snake.svg" alt="Snake animation" /> -->
-![Snake animation](https://github.com/JordyCM24/JordyCM24/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/JordyCM24/JordyCM24/output/snake.svg" alt="Snake animation" />
 
-[![readne](https://github-readme-stats.vercel.app/api/pin/?username-JordyCM24&repo-JordyCM24&theme-react)](https://github.com/JordyCM24/JordyCM24).
+###
 
 # 💻 Tecnologias y herramientas que he llegado a usar :
 
