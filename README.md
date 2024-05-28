@@ -1,21 +1,4 @@
-<!-- # 💫 About Me:
-> 👋Hola, mi nombre es Jordy.<br><br>Me gusta mucho programar y espero algun dia llegar a ser un buen programador ✨
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317wcalqw7hpkl3fvrk2pskyaq24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@jordydev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JordyDevs) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JordyCM24&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JordyCM24&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyCM24&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JordyCM24&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+<!--
 [![](https://visitcount.itsvg.in/api?id=JordyCM24&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
@@ -33,6 +16,7 @@
 ###
 
 <h2> 💻 Tecnologias en las que me especializo: </h2>
+<p>Principalmente me espesializo en Angular y tengo +1 año de experiencia con este framework</p> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -112,11 +96,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-<div align="center">
+<!--<div align="center">
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317wcalqw7hpkl3fvrk2pskyaq24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
-</div>
+</div> -->
 
 
 # 📊 GitHub Stats:
