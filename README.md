@@ -17,6 +17,13 @@
 
 <h2> 💻 Tecnologias en las que me especializo: </h2>
 <p style="font-size: 16px;">Principalmente me especializo en Angular y tengo +1 año de experiencia con este framework</p> 
+<p  style="font-size: 14px;">Actualmente estoy trabjando en corporacion anfibius, empresa dedicada al desarrollo de software contable en el cual partipo en</p>
+<ul>
+  <li>Desarrollo de tienda online</li>
+  <li>Desarrollo de sistema web contable</li>
+  <li>Mejora constante en el sistema</li>
+</ul>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
