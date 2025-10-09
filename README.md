@@ -12,8 +12,8 @@
 ###
 
 <h2> 💻 Tecnologias en las que me especializo: </h2>
-<p style="font-size: 17px;">Principalmente me especializo en Angular y tengo +1 año de experiencia con este framework</p> 
-<p  style="font-size: 15px;">Actualmente estoy trabajando en corporacion Anfibius, empresa dedicada al desarrollo de software contable en el cual partipo en:</p>
+<p style="font-size: 17px;">Principalmente me especializo en Angular y tengo +2 años de experiencia con este framework</p> 
+<p  style="font-size: 15px;">Actualmente estoy trabajando en corporacion Anfibius Cia. Ltda, empresa dedicada al desarrollo de software contable en el cual partipo en:</p>
 <ul>
   <li>Desarrollo de tienda online.</li>
   <li>Desarrollo de sistema web contable.</li>
