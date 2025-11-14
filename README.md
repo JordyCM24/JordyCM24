@@ -3,7 +3,7 @@
 
 
 <h1 align="center">👋Hola, mi nombre es Jordy</h1>
-<h2 align="center">Me gusta mucho programar y espero algun dia llegar a ser un excelente programador ✨</h2>
+<h2 align="center">Amo programar y espero algun dia llegar a ser un excelente programador ✨</h2>
 
 ###
 
